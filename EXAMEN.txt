@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Esto es contenido añadido
+=======
+Contenido en la rama main
+>>>>>>> main
